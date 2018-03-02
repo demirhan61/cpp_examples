@@ -1,13 +1,2 @@
 # cpp_examples
-c++ ornekleri
-
-Köşegen Yıldız
-*
- *
-  *
-   *
-Ters Köşegen Yıldız
-   *
-  *
- *
-*
+yeni baslayanlar icin baslangic c++ ornekleri
